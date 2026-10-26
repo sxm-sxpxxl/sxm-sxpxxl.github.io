@@ -150,6 +150,30 @@ Metta Corpse и Études ещё дорабатываются (см. «Откры�
 - [ ] Музыкальные треки для вкладок
 - [ ] После утверждения — финальный дизайн-документ и план реализации на Zola
 
+## Вопросы, открытые на момент паузы
+
+- Contact: что в форме лишнее или чего не хватает (поля описаны выше).
+- About me: писать черновик текста по известному или сначала собрать рассказ автора.
+- Metta Corpse: уместно ли уже сейчас показывать логотип и общую информацию о LoST и AB.
+
+## Как продолжить работу с прототипом
+
+- Визуальный компаньон: `bash ~/.claude/plugins/cache/claude-plugins-official/superpowers/<версия>/skills/brainstorming/scripts/start-server.sh --project-dir D:/rust-projects/persona`
+  (на Windows — в фоне). Адрес с ключом — в `.superpowers/brainstorm/<сессия>/state/server-info`. Если создалась новая
+  папка сессии, скопировать в её `content/` файл `prototype-v10.html` и картинки из старой папки
+  `.superpowers/brainstorm/1382-1792925805/content/`.
+- Картинки в прототипе грузятся как `/files/<имя>` прямо из `content/` (без подпапок): `logo.png`, `avatar.png`,
+  `chart-*.png`, `factory-*.png`. Источники — `Promo~\studio`, `Promo~\chart\frames`, `Promo~\factory\frames`.
+- Новый экран — новый файл (`prototype-v11.html` …): сервер показывает самый свежий. Приложение при записи HTML
+  открывает лишнюю вкладку `file://` — её закрывать и смотреть через вкладку сервера. Во время многошаговой правки
+  в консоли остаются ошибки от промежуточных перезагрузок — проверять состояние уже после.
+- Для проверок запуск пропускается событием клавиши (`keydown`), вкладки переключаются `go('<id>')`
+  (`sxm`, `metta`, `etudes`, `contact`, `about`), запуск повторяется `replayBoot()`.
+- Устройство `prototype-v10.html`: стили (оболочка, SXM Tools, карусель, Contact и Known issues, неиспользуемая
+  светлая тема, запуск, телефон через container queries `@container stage`, форма); разметка
+  `.stage > .px` (шапка `.bar`, страницы `#p-sxm`, `#p-metta`, `#p-etudes`, `#p-contact`, `#p-about`); скрипты по
+  разделам: living backgrounds v2, music themes, boot, known issues, phone, contact form.
+
 ## Передано в другие сессии
 
 - Сессия UI Line Chart: новая формулировка принципа Fast (заменить в сторе, README, документации).
