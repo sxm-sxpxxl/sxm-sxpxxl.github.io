@@ -1,0 +1,10 @@
+{
+ "saved": "2026-11-25",
+ "from": "the author's picks (event music-pick from prototype-v94.html, 2026-11-21; Études changed to Gymnopédie No. 1 on 2026-11-25), fixed in prototype-v97.html",
+ "pick": {
+  "sxm": { "id": "inc-limit-70", "title": "Limit 70", "by": "Kevin MacLeod", "license": "CC BY 4.0", "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900042" },
+  "etudes": { "id": "inc-gymnopedie", "title": "Gymnopédie No. 1 (Erik Satie)", "by": "Kevin MacLeod", "license": "CC BY 4.0 (the recording; Satie's music of 1888 is in the public domain)", "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100787", "before": "wc-chopin-25-1 — Chopin, Etude op. 25 no. 1, Donald Betts (Musopen), public domain (2026-11-21 to 2026-11-25)" },
+  "metta": { "id": "own-mix", "title": "Metta Corpse theme (the author's own mix)", "by": "sxm-sxpxxl", "file": "D:/media-pool/davinci-projects/metta-corpse-theme/metta-corpse-theme-loop.wav", "note": "12 layers from the gallery picks, credits in that folder's LICENSES.md; Ossuary 6 - Air was the stand-in before" },
+  "base": { "id": "oga-up-in-the-sky", "title": "Up in the Sky", "by": "Memoraphile (You're Perfect Studio)", "license": "CC0", "page": "https://opengameart.org/content/up-in-the-sky" }
+ }
+}

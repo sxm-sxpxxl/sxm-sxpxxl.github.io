@@ -1,0 +1,23 @@
+{
+ "saved": "2026-11-25",
+ "from": "the author's picks in prototype-v95.html and prototype-v96.html, fixed in prototype-v97.html (no lists there)",
+ "pick": {
+  "tab": { "id": "fs-54407", "title": "Metronome Tap", "by": "KorgMS2000B", "license": "CC0", "page": "https://freesound.org/s/54407/", "preview": "https://cdn.freesound.org/previews/54/54407_497386-hq.mp3", "volume": 0.35 },
+  "click": { "id": "fs-871921", "title": "Hover tick (Soft UI SFX)", "by": "heyheytheree", "license": "CC BY 4.0", "page": "https://freesound.org/s/871921/", "preview": "https://cdn.freesound.org/previews/871/871921_19311584-hq.mp3", "volume": 0.45, "note": "CC BY: the author is credited on the site" }
+ },
+ "neon": {
+  "saved": "2026-11-25",
+  "crackle": { "id": "ticks", "title": "single ticks of a flickering tube", "by": "TRP", "license": "CC0", "page": "https://freesound.org/s/574100/", "preview": "https://cdn.freesound.org/previews/574/574100_97550-hq.mp3", "ticks_s": [1.86, 2.09, 2.245, 2.61, 3.085, 3.135, 3.92, 4.355, 7.865, 8.23, 8.505, 8.8], "note": "one 85 ms grain on each of the twitch's two dips (0 and 141 ms), peak 0.22-0.34, pitch 0.94-1.08" },
+  "hum": { "id": "samwd", "title": "the lamp's hum under the pointer", "by": "samwd", "license": "CC0", "page": "https://freesound.org/s/457438/", "preview": "https://cdn.freesound.org/previews/457/457438_2677090-hq.mp3", "loop_s": [2.7, 7.9], "note": "a seamless loop (last 0.4 s over the first), RMS 0.03, in 0.38 s with the flare, out 0.6 s" }
+ },
+ "etudes-title": { "saved": "2026-11-25", "lead": "loop", "pen": "shade", "erase": "rewind", "note": "written, held 4 s, run back along the strokes, again; graphite with a hatched shadow" },
+ "metta-shake": "film",
+ "contact-dropdown": { "saved": "2026-11-25", "dd": "term", "note": "the package-version list in the mono face, the picked one marked with >" },
+ "metta-grey": { "saved": "2026-11-25", "grey": "ash", "g2": "#D6D1C8", "g3": "#ADA79D", "g4": "#908A81" },
+ "metta-ash-bg": { "saved": "2026-11-25", "ashbg": "stir", "note": "tumbling ash flakes, the pointer stirs the air within 180 px" },
+ "metta-ash-text": { "saved": "2026-11-25", "ashtext": "cover", "note": "ash lies on the games' titles and lines (LoST/AB at the left + dust), wiped by hand, trembles with the logo" },
+ "typing": { "saved": "2026-11-25", "keys": "each", "note": "Hover tick on every character, ~0.4 of the click, 120 ms, ±8 % pitch, deletions lower; never on touch screens" },
+ "metta-sweep": { "saved": "2026-11-25", "sweep": "rocks", "title": "hand brush small rocks", "by": "oscaraudiogeek", "license": "CC0", "page": "https://freesound.org/people/oscaraudiogeek/sounds/328937/", "preview": "https://cdn.freesound.org/previews/328/328937_5117035-hq.mp3", "note": "grains of 90–160 ms from its sounding parts, following the wiping hand" },
+ "header-tabs": { "saved": "2026-11-25", "tsxm": "neon", "tet": "graphite", "tmc": "ash", "lure": "often", "note": "the author unsure about the Études colour but ok; blue pencil dropped (blue is used nowhere else)" },
+ "sound-default": { "saved": "2026-11-25", "default": "on", "note": "starts with the first gesture; turning it off is remembered (localStorage persona-sound=off)" }
+}

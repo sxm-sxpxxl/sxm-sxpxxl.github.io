@@ -1,0 +1,270 @@
+{
+ "saved": "2026-11-21",
+ "from": "companion log, last sound-gallery event of 2026-11-19 16:18",
+ "fav": [
+  {
+   "id": "inc-beauty-flow",
+   "sec": "sxm",
+   "title": "Beauty Flow",
+   "by": "Kevin MacLeod",
+   "lic": "CC BY 4.0",
+   "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900008"
+  },
+  {
+   "id": "inc-limit-70",
+   "sec": "sxm",
+   "title": "Limit 70",
+   "by": "Kevin MacLeod",
+   "lic": "CC BY 4.0",
+   "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900042"
+  },
+  {
+   "id": "cc-not-too-quiet",
+   "sec": "sxm",
+   "title": "Not too quiet",
+   "by": "zikweb",
+   "lic": "CC BY 3.0",
+   "page": "https://ccmixter.org/files/zikweb/17624"
+  },
+  {
+   "id": "cc-night-calling",
+   "sec": "sxm",
+   "title": "The night is calling",
+   "by": "Kraftamt",
+   "lic": "CC BY 3.0",
+   "page": "https://ccmixter.org/files/Karstenholymoly/62739"
+  },
+  {
+   "id": "oga-synthwave-421k",
+   "sec": "sxm",
+   "title": "Synthwave 421k",
+   "by": "The Cynic Project",
+   "lic": "CC0",
+   "page": "https://opengameart.org/content/calm-relax-1-synthwave-421k"
+  },
+  {
+   "id": "oga-drifting",
+   "sec": "sxm",
+   "title": "Drifting Beyond the Stars",
+   "by": "HitCtrl",
+   "lic": "CC BY 3.0",
+   "page": "https://opengameart.org/content/drifting-beyond-the-stars-background-ambient"
+  },
+  {
+   "id": "oga-floating-void",
+   "sec": "sxm",
+   "title": "Floating through the void",
+   "by": "CaliDerium",
+   "lic": "CC BY 4.0",
+   "page": "https://opengameart.org/content/floating-through-the-void"
+  },
+  {
+   "id": "inc-gymnopedie",
+   "sec": "etudes",
+   "title": "Gymnopédie No. 1 (Эрик Сати)",
+   "by": "Kevin MacLeod",
+   "lic": "CC BY 4.0",
+   "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100787"
+  },
+  {
+   "id": "oga-snowfall",
+   "sec": "etudes",
+   "title": "Snowfall (зацикленная версия)",
+   "by": "Kistol",
+   "lic": "CC0",
+   "page": "https://opengameart.org/content/snowfall"
+  },
+  {
+   "id": "wc-chopin-25-1",
+   "sec": "etudes",
+   "title": "Шопен — Этюд op. 25 № 1 («Эолова арфа»)",
+   "by": "исп. Donald Betts (Musopen)",
+   "lic": "PD",
+   "page": "https://commons.wikimedia.org/wiki/File:Frederic_Chopin_-_etude_no._1_in_a_flat_major,_op._25.ogg"
+  },
+  {
+   "id": "fs-851851",
+   "sec": "metta",
+   "title": "Ominous industrial humming drone",
+   "by": "Sadiquecat",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/851851/"
+  },
+  {
+   "id": "fs-864691",
+   "sec": "metta",
+   "title": "Mechanical Industrial Wavetable Drone",
+   "by": "bassimat (MANTICE)",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/864691/"
+  },
+  {
+   "id": "fs-864695",
+   "sec": "metta",
+   "title": "Subharmonic Obsidian Wavetable Drone",
+   "by": "bassimat (MANTICE)",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/864695/"
+  },
+  {
+   "id": "fs-864671",
+   "sec": "metta",
+   "title": "Industrial Abyss Drone (PaulXStretch)",
+   "by": "kkenny101",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/864671/"
+  },
+  {
+   "id": "fs-401588",
+   "sec": "metta",
+   "title": "Eerie Sci-Fi Industrial Ambience",
+   "by": "DeVern",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/401588/"
+  },
+  {
+   "id": "fs-593785",
+   "sec": "metta",
+   "title": "Ominous Rumble — loopable",
+   "by": "steaq",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/593785/"
+  },
+  {
+   "id": "fs-126088",
+   "sec": "metta",
+   "title": "LAYERS 023 — Industrial drone",
+   "by": "Jovica",
+   "lic": "CC BY 4.0",
+   "page": "https://freesound.org/s/126088/"
+  },
+  {
+   "id": "fs-397178",
+   "sec": "metta",
+   "title": "SubSteel Drone C2",
+   "by": "Badgie42",
+   "lic": "CC BY 4.0",
+   "page": "https://freesound.org/s/397178/"
+  },
+  {
+   "id": "fs-855303",
+   "sec": "metta",
+   "title": "Granular Voice Drone (PaulStretch 30×)",
+   "by": "kkenny101",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/855303/"
+  },
+  {
+   "id": "fs-91283",
+   "sec": "metta",
+   "title": "Long drone, chimes",
+   "by": "Nosebleed Cinema",
+   "lic": "CC BY 4.0",
+   "page": "https://freesound.org/s/91283/"
+  },
+  {
+   "id": "oga-wendale-abbey",
+   "sec": "metta",
+   "title": "Wendale Abbey",
+   "by": "Yubatake",
+   "lic": "CC BY 4.0",
+   "page": "https://opengameart.org/content/wendale-abbey"
+  },
+  {
+   "id": "fs-864694",
+   "sec": "metta",
+   "title": "Transcendent Choir Wavetable Drone",
+   "by": "bassimat (MANTICE)",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/864694/"
+  },
+  {
+   "id": "fs-273804",
+   "sec": "metta",
+   "title": "Dark Choir Singing",
+   "by": "BrainClaim",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/273804/"
+  },
+  {
+   "id": "oga-evil-temple",
+   "sec": "metta",
+   "title": "Evil temple ambiance loop",
+   "by": "Brandon Morris",
+   "lic": "CC0",
+   "page": "https://opengameart.org/content/evil-temple-ambiance-loop"
+  },
+  {
+   "id": "fs-345028",
+   "sec": "metta",
+   "title": "Temple chanting interior",
+   "by": "3bagbrew",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/345028/"
+  },
+  {
+   "id": "inc-ossuary-6",
+   "sec": "metta",
+   "title": "Ossuary 6 — Air",
+   "by": "Kevin MacLeod",
+   "lic": "CC BY 4.0",
+   "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500048"
+  },
+  {
+   "id": "inc-soaring",
+   "sec": "base",
+   "title": "Soaring",
+   "by": "Kevin MacLeod",
+   "lic": "CC BY 4.0",
+   "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600040"
+  },
+  {
+   "id": "oga-up-in-the-sky",
+   "sec": "base",
+   "title": "Up in the Sky",
+   "by": "Memoraphile",
+   "lic": "CC0",
+   "page": "https://opengameart.org/content/up-in-the-sky"
+  },
+  {
+   "id": "fs-125064",
+   "sec": "neon",
+   "title": "Faulty Fluorescent Light Starter & Hum",
+   "by": "EverydaySounds",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/125064/"
+  },
+  {
+   "id": "fs-574100",
+   "sec": "neon",
+   "title": "Light switch, fluorescent flickering electric bulb",
+   "by": "TRP",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/574100/"
+  },
+  {
+   "id": "fs-457438",
+   "sec": "neon",
+   "title": "flourescent light",
+   "by": "samwd",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/457438/"
+  },
+  {
+   "id": "fs-871921",
+   "sec": "ui",
+   "title": "Hover tick (Soft UI SFX)",
+   "by": "heyheytheree",
+   "lic": "CC BY 4.0",
+   "page": "https://freesound.org/s/871921/"
+  },
+  {
+   "id": "fs-54407",
+   "sec": "ui",
+   "title": "Metronome Tap",
+   "by": "KorgMS2000B",
+   "lic": "CC0",
+   "page": "https://freesound.org/s/54407/"
+  }
+ ]
+}
