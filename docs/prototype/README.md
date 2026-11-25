@@ -25,7 +25,8 @@ python -m http.server 8000
 - `index.html` — рамка визуального компаньона brainstorming (из плагина superpowers) с прототипом внутри, как его
   показывал компаньон; картинки берутся из `files/`. Скрипты и стили прототипа — внутри этого файла.
 - `files/` — картинки: логотипы, кадры карусели, миниатюры, портрет (уменьшен до 1200 px; оригинал —
-  `D:\media-pool\affinity-projects\sxm-about\sxm-portrait.JPG`).
+  `D:\media-pool\affinity-projects\sxm-about\sxm-portrait.JPG`) и тема Metta Corpse `metta-theme-loop.opus`
+  (Opus 96 кбит/с, 4,7 МБ, бесшовная петля 6:34 — длина до сэмпла как у мастера).
 - `tools/` — скрипты на Python, которыми готовились материалы: `mc_logo_b.py` (логотип Metta Corpse: прозрачность
   по яркости, края гаснут), `theme_loop.py` (бесшовная петля темы: конец наложен на начало равномощным переходом),
   `mc_compose.py` (черновики композиций Metta Corpse), `logos.py`.
@@ -33,8 +34,6 @@ python -m http.server 8000
 
 ## Чего здесь нет
 
-- Темы Metta Corpse: WAV на 75 МБ. Мастер — `D:\media-pool\davinci-projects\metta-corpse-theme\metta-corpse-theme-loop.wav`;
-  чтобы она играла, положить его 16-битную копию как `files/metta-theme-loop.wav`.
 - Локальных копий тем `files/theme-sxm.mp3`, `theme-etudes.mp3`, `theme-base.ogg`: без них темы играют прямо с
   Incompetech и OpenGameArt, тема вкладки из-за стены у них звучит просто тише, без фильтра.
 - Остальное грузится с чужих сайтов: шрифты с Google Fonts, звуки интерфейса, неона и стирания — с Freesound, гифки
